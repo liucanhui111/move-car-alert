@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色：警示红 -->
+    <color name="primary">#C62828</color>
+    <color name="primary_dark">#8E1B1B</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#FFDAD6</color>
+    <color name="on_primary_container">#410002</color>
+
+    <color name="secondary">#775570</color>
+    <color name="background">#FFF8F7</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1C1B1B</color>
+    <color name="on_surface_variant">#57534E</color>
+    <color name="outline">#857371</color>
+
+    <!-- 状态 -->
+    <color name="status_ok">#2E7D32</color>
+    <color name="status_bad">#C62828</color>
+    <color name="status_ok_container">#E8F5E9</color>
+    <color name="status_bad_container">#FDECEA</color>
+
+    <!-- 告警页 -->
+    <color name="alert_bg_start">#D32F2F</color>
+    <color name="alert_bg_end">#7F1010</color>
+    <color name="alert_white">#FFFFFF</color>
+    <color name="alert_white_70">#B3FFFFFF</color>
+    <color name="time_up">#FFD600</color>
+
+    <color name="ic_launcher_background">#C62828</color>
+</resources>

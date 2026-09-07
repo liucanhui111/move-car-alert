@@ -1,0 +1,4 @@
+// 挪车提醒 - 根构建脚本（零音频：本项目不含任何铃声/提示音/媒体播放代码）
+plugins {
+    id 'com.android.application' version '8.5.2' apply false
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">挪车提醒</string>
+
+    <string name="master_title">监听服务</string>
+    <string name="master_sub">开启后持续监控 12123 及自定义来源（仅震动 + 弹窗，无任何声音）</string>
+    <string name="status_title">连通状态</string>
+    <string name="status_sub">绿色为正常，红色为异常；点击红色项可跳转修复</string>
+    <string name="btn_test">一键测试告警</string>
+    <string name="btn_settings">提醒设置</string>
+    <string name="btn_history">告警历史</string>
+
+    <string name="alert_title">挪车提醒</string>
+    <string name="alert_stop">停止提醒</string>
+    <string name="alert_time_up">时间已到</string>
+    <string name="alert_countdown_label">挪车倒计时</string>
+
+    <string name="settings_title">设置</string>
+    <string name="history_title">告警历史</string>
+    <string name="history_empty">暂无告警记录\n收到 12123 或自定义监控消息后，将在此显示最近 30 条</string>
+    <string name="btn_clear_history">清空</string>
+</resources>
